@@ -8,7 +8,7 @@ Here are some screenshots of the Sweet Store app:
 
 | Screenshot 1 | Screenshot 2 |
 |--------------|--------------|
-| ![Screenshot 1](https://raw.githubusercontent.com/noureddinne21/Sweets-Store/refs/heads/main/Screenshot_2024-10-30-16-39-13-403_com.nouroeddinne.sweetsstore.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/noureddinne21/Sweets-Store/refs/heads/main/Screenshot_2024-10-30-16-39-21-801_com.nouroeddinne.sweetsstore.jpg) |
+| ![Screenshot 1](https://raw.githubusercontent.com/noureddinne21/Sweets-Store/refs/heads/main/Screenshot_2024-11-05-19-31-14-223_com.example.calculator.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/noureddinne21/Sweets-Store/refs/heads/main/Screenshot_2024-11-05-19-31-45-720_com.example.calculator.jpg) |
 
 
 # Features
@@ -24,3 +24,13 @@ Responsive Design: Works seamlessly across different screen sizes and orientatio
 Java: The app is developed in Java.
 Android SDK: Standard Android development tools and components.
 Material Design: Provides a modern and consistent design across Android devices.
+
+## Installation
+To run this app locally, clone the repository and open it in Android Studio:
+
+git clone https://github.com/yourusername/android-calculator.git
+
+After cloning, open the project in Android Studio and run the app on an emulator or physical device.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
