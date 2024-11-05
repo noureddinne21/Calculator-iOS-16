@@ -28,7 +28,7 @@ Material Design: Provides a modern and consistent design across Android devices.
 ## Installation
 To run this app locally, clone the repository and open it in Android Studio:
 
-git clone https://github.com/yourusername/android-calculator.git
+git clone https://github.com/noureddinne21/Calculator-iOS-16.git
 
 After cloning, open the project in Android Studio and run the app on an emulator or physical device.
 
