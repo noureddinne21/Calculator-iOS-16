@@ -4,7 +4,7 @@ A simple Android calculator app built with Java that mimics the functionality of
 
 ## Screenshots
 
-Here are some screenshots of the Sweet Store app:
+Here are some screenshots of the IOS Calculator App for Android app:
 
 | Screenshot 1 | Screenshot 2 |
 |--------------|--------------|
