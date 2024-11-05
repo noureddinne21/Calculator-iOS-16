@@ -8,7 +8,7 @@ Here are some screenshots of the Sweet Store app:
 
 | Screenshot 1 | Screenshot 2 |
 |--------------|--------------|
-| ![Screenshot 1](https://raw.githubusercontent.com/noureddinne21/Calculator-iOS-16/refs/heads/main/Screenshot_2024-11-05-19-31-14-223_com.example.calculator.jpg) | ![Screenshot 2]([https://raw.githubusercontent.com/noureddinne21/Sweets-Store/refs/heads/main/Screenshot_2024-11-05-19-31-45-720_com.example.calculator.jpg](https://raw.githubusercontent.com/noureddinne21/Calculator-iOS-16/refs/heads/main/Screenshot_2024-11-05-19-31-45-720_com.example.calculator.jpg)) |
+| ![Screenshot 1](https://raw.githubusercontent.com/noureddinne21/Calculator-iOS-16/refs/heads/main/Screenshot_2024-11-05-19-31-14-223_com.example.calculator.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/noureddinne21/Calculator-iOS-16/refs/heads/main/Screenshot_2024-11-05-19-31-45-720_com.example.calculator.jpg) |
 
 
 # Features
