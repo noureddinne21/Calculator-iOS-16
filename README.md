@@ -25,12 +25,12 @@ Java: The app is developed in Java.
 Android SDK: Standard Android development tools and components.
 Material Design: Provides a modern and consistent design across Android devices.
 
-## Installation
-To run this app locally, clone the repository and open it in Android Studio:
-
-git clone https://github.com/noureddinne21/Calculator-iOS-16.git
-
-After cloning, open the project in Android Studio and run the app on an emulator or physical device.
-
 ## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Support
+
+For technical support or feature requests, please contact:
+*[noureddinne.office@gmail.com]*
+
